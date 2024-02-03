@@ -1,4 +1,4 @@
-# cubic-splinetool-runtime
+# cubic/splinetool/runtime
 
 npm install @splinetool/runtime
 https://app.spline.design
